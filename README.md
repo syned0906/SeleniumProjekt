@@ -25,7 +25,7 @@ Testovi su podijeljeni u pet cjelina:
    ```bash
    git clone <repo-url>
    ```
-2. Otvorite projekt u omiljenom IDE-u (npr. IntelliJ IDEA, Eclipse)
+2. Otvorite projekt u IDE-u (npr. IntelliJ IDEA, Eclipse)
 3. Pokrenite testove pomoću Maven-a:  
    ```bash
    mvn test
